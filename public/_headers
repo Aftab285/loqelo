@@ -1,0 +1,19 @@
+/*  Security + caching headers
+    (Netlify: this file is picked up automatically. Other hosts:
+    Apache reads .htaccess, Vercel reads vercel.json, Cloudflare Pages reads _headers.) */
+
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=()
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://www.google-analytics.com; font-src 'self'; connect-src 'self' https://www.google-analytics.com https://region1.google-analytics.com; media-src 'self'; form-action 'self' https://formspree.io; base-uri 'self'; object-src 'none'
+
+/assets/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/img/*
+  Cache-Control: public, max-age=604800
+
+/assets/js/*
+  Cache-Control: public, max-age=3600, must-revalidate

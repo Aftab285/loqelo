@@ -1,0 +1,264 @@
+{
+  "a11y": {
+    "skip": "Zum Inhalt springen"
+  },
+  "aud": {
+    "cust": {
+      "body": "Für Eigentümer, Mieter, Vermieter und Büros. Eine Anfrage, mehrere Angebote, keine Verpflichtung.",
+      "cta": "Als Kunde beitreten",
+      "l1": "Kostenlos einstellen, kostenlos ablehnen",
+      "l2": "Geprüfte Anbieter mit öffentlichen Bewertungen",
+      "l3": "Ihre genaue Adresse bleibt privat, bis Sie sich entscheiden",
+      "tag": "Für Kunden",
+      "title": "Brauchen Sie Hilfe? Einmal beschreiben genügt."
+    },
+    "eyebrow": "Zwei Seiten, eine Plattform",
+    "pro": {
+      "body": "Für Einzelunternehmer, kleine Teams und Unternehmen. Services und Umkreis einmal einstellen, dann nur noch passende Aufträge anbieten.",
+      "cta": "Als Anbieter beitreten",
+      "l1": "Aufträge passend zu Ihrem Gewerk und Gebiet",
+      "l2": "Keine Gebühren für Anfragen, die Sie nicht gewinnen",
+      "l3": "Bewertung und Abschlussquote verkaufen für Sie",
+      "tag": "Für Dienstleister",
+      "title": "Zu wenig Aufträge? Sie kommen zu Ihnen."
+    },
+    "title": "Für Menschen, die Hilfe brauchen — und für die, die sie geben."
+  },
+  "cap": {
+    "bid": {
+      "b": "Preis, Termin und ein schriftliches Angebot — mit dem Einsatzort getrennt von den Dateien.",
+      "t": "Ein Angebot, das überzeugt"
+    },
+    "client": {
+      "b": "Angebote, Fragen und den gewählten Anbieter verfolgen — ohne E-Mail-Suche.",
+      "t": "Alle Aufträge in einer Liste"
+    },
+    "post": {
+      "b": "Drei optionale Schritte liefern Details, damit Anbieter gleich beim ersten Mal richtig kalkulieren.",
+      "t": "Fotos, Ort, Termin"
+    },
+    "pro": {
+      "b": "Aufträge passend zu Ihren Services und Ihrem Umkreis, inklusive Verdienstpotenzial.",
+      "t": "Aufträge, die zu Ihnen kommen"
+    },
+    "quotes": {
+      "b": "Angebote sortiert nach Preis, Bewertung oder Tempo, mit Preisspannen-Diagramm und Fragenbereich.",
+      "t": "Vergleichen, dann wählen"
+    }
+  },
+  "cat": {
+    "construction": "Bau",
+    "energy": "Energie",
+    "garden": "Garten",
+    "handyman": "Handwerker",
+    "home": "Haus",
+    "installations": "Installationen",
+    "landscaping": "Gartenbau",
+    "moving": "Umzug",
+    "personal": "Betreuung",
+    "pets": "Haustiere",
+    "repairs": "Reparaturen",
+    "vehicles": "Fahrzeuge"
+  },
+  "cd": {
+    "days": "Tage",
+    "hours": "Stunden",
+    "minutes": "Minuten",
+    "seconds": "Sekunden"
+  },
+  "ck": {
+    "accept": "Akzeptieren",
+    "reject": "Ablehnen",
+    "text": "Wir nutzen datenschutzfreundliche Analyse, um zu sehen, wie die Seite läuft. Nichts lädt, bevor Sie zustimmen, und wir senden niemals Ihre E-Mail-Adresse oder Formularinhalte an Analysetools. <a href=\"privacy.html#cookies\">Details</a>."
+  },
+  "cta": {
+    "body": "Tragen Sie sich heute in die Warteliste ein und sind am ersten Tag dabei — als Kunde, als Anbieter oder beides.",
+    "btn": "Zur Warteliste",
+    "btn2": "FAQ lesen",
+    "title": "Ihr Zuhause hat eine To-do-Liste. Machen wir sie kürzer."
+  },
+  "f": {
+    "business": "Unternehmen",
+    "consent": "Ich stimme zu, gelegentliche E-Mails zum Loqelo-Start und zu Neuigkeiten zu erhalten. Ich kann jederzeit abbestellen — siehe <a href=\"privacy.html\">Datenschutzerklärung</a>.",
+    "consentErr": "Bitte bestätigen Sie, dass Sie von uns hören möchten.",
+    "consentPro": "Ich stimme zu, gelegentliche E-Mails zum Loqelo-Start, zum Onboarding und zu Neuigkeiten zu erhalten. Ich kann jederzeit abbestellen — siehe <a href=\"privacy.html\">Datenschutzerklärung</a>.",
+    "country": "Wohnsitzland",
+    "countryErr": "Bitte wählen Sie ein Land.",
+    "countryPro": "Land, in dem Sie arbeiten",
+    "countrySelect": "Land auswählen",
+    "email": "E-Mail-Adresse",
+    "emailErr": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+    "emailPh": "sie@example.com",
+    "individual": "Privatperson",
+    "note": "Keine Zahlungsdaten, keine Verpflichtung. Wir schreiben nur zum Start, und Sie können die Liste mit einem Klick verlassen.",
+    "notePro": "Der Beitritt ist kostenlos. Wir melden uns vor dem Start mit den Schritten zur Verifizierung und der Preisgestaltung.",
+    "optional": "optional",
+    "submitCust": "Zur Warteliste",
+    "submitPro": "Als Anbieter beitreten",
+    "type": "Ich bin",
+    "typePro": "Ich arbeite als"
+  },
+  "faq": {
+    "a1": "Februar 2027. Wer auf der Warteliste steht, ist zuerst dran: Wir schreiben Ihnen, sobald Ihr Land öffnet — bevor etwas öffentlich angekündigt wird.",
+    "a2": "Wir öffnen Land für Land in Europa, beginnend mit den Niederlanden, Polen und Deutschland. Sie können sich von überall eintragen — wir sagen Ihnen, wann Loqelo Ihre Region erreicht.",
+    "a3": "Ja. Aufträge einstellen und Angebote erhalten ist kostenlos, und Sie müssen nie eines annehmen. Sie zahlen nur den Anbieter, den Sie wählen, zum vereinbarten Preis.",
+    "a4": "Profil anlegen und passende Aufträge sehen wird kostenlos sein. Die Preise für die Zusatzfunktionen veröffentlichen wir lange vor dem Start, und die Warteliste erfährt es zuerst.",
+    "a5": "Jeder Anbieter durchläuft eine Identitäts- und Unternehmensprüfung, bevor er ein Angebot senden darf. Bewertungen, Rezensionen und Abschlussquoten sind öffentlich — Sie wissen also immer, mit wem Sie es zu tun haben.",
+    "a6": "Wir speichern sie ausschließlich, um Start-News und Updates zu senden. Sie wird nie verkauft, nie anderen Nutzern gezeigt und nie an Analysetools weitergegeben. Jede E-Mail hat einen Ein-Klick-Abmelde-Link, und Sie können jederzeit die Löschung verlangen — Details in der <a href=\"privacy.html\">Datenschutzerklärung</a>.",
+    "cardB": "hello@loqelo.com — wir antworten innerhalb von zwei Werktagen.",
+    "cardT": "Noch eine Frage?",
+    "eyebrow": "Fragen",
+    "lede": "Fehlt etwas? Schreiben Sie an <a href=\"mailto:hello@loqelo.com\">hello@loqelo.com</a> — ein Mensch antwortet.",
+    "q1": "Wann startet Loqelo?",
+    "q2": "In welchen Ländern ist Loqelo verfügbar?",
+    "q3": "Ist Loqelo für Kunden kostenlos?",
+    "q4": "Was kostet Loqelo für Dienstleister?",
+    "q5": "Wie werden Anbieter geprüft?",
+    "q6": "Was passiert mit meiner E-Mail-Adresse?",
+    "title": "Das fragen uns die Leute zuerst."
+  },
+  "film": {
+    "eyebrow": "Der Loqelo-Film",
+    "f1": "<b>Jedes Gewerk, ein Ort</b> — von der Fensterreinigung bis zur Komplettsanierung.",
+    "f2": "<b>Lokale Profis, echte Bewertungen</b> — geprüfte Anbieter in Ihrer Nähe.",
+    "f3": "<b>Ein Satz zum Start</b> — keine Formulare, keine Anrufe.",
+    "lede": "Jemanden Gutes zu finden, der repariert, reinigt oder Ihr Zuhause verbessert, sollte kein Glücksspiel sein. Deshalb haben wir den kürzestmöglichen Weg gebaut: von „Ich brauche das erledigt“ zu „Das ist die richtige Person“.",
+    "len": "1 Min. 22 Sek.",
+    "tag": "Imagefilm",
+    "title": "Zweiundachtzig Sekunden. Eine Idee."
+  },
+  "foot": {
+    "blurb": "Loqelo verbindet Kunden mit vertrauenswürdigen Dienstleistern für Haus, Garten und Büro. Start im Februar 2027.",
+    "company": "Unternehmen",
+    "contact": "Kontakt",
+    "cookies": "Cookie-Einstellungen",
+    "imprint": "Impressum",
+    "join": "Warteliste",
+    "legal": "Rechtliches",
+    "made": "Start im Februar 2027",
+    "platform": "Plattform",
+    "privacy": "Datenschutz & Cookies",
+    "rights": "Alle Rechte vorbehalten.",
+    "top": "Nach oben"
+  },
+  "hero": {
+    "badge": "Start Feb. 2027",
+    "badge2": "Warteliste offen",
+    "cta": "Zur Warteliste",
+    "cta2": "So funktioniert es",
+    "f1": "3 Services gefunden",
+    "f1b": "aus einem Satz erkannt",
+    "f2": "4,9 Durchschnitt",
+    "f2b": "geprüfte lokale Profis",
+    "sub": "Ein Satz genügt. Beschreiben Sie den Auftrag — Reinigung, Reparatur, Garten, Umzug — und Loqelo bringt Ihnen Angebote von geprüften lokalen Profis.",
+    "t1": "Geprüfte Anbieter",
+    "t2": "Kostenlos einstellen, keine Verpflichtung",
+    "t3": "Kein Spam, nur Start-News",
+    "title": "Alles, was <span class=\"hl\">Ihr Zuhause</span> braucht."
+  },
+  "how": {
+    "cta": "Zum Start ausprobieren",
+    "eyebrow": "So funktioniert Loqelo",
+    "lede": "Kein endloses Suchen. Keine fünf Anrufe für ein Angebot. Vier Schritte, ein Ort, Ihr Tempo.",
+    "quote": "„Vor dem Winter müssen die Dachrinnen frei und ein neues Zaunelement rein.“ <em>Mehr Auftrag braucht es nicht.</em>",
+    "s1b": "Schreiben Sie es, wie Sie es sagen würden: „Meine Hecke ist überwuchert und die Fenster müssten mal geputzt werden“. Fotos helfen.",
+    "s1t": "Bedarf beschreiben",
+    "s2b": "Loqelo erkennt, welche Services Sie brauchen, und zeigt den Auftrag geprüften Anbietern in Ihrer Nähe.",
+    "s2t": "Wir finden die Profis",
+    "s3b": "Preis, Termin, Bewertungen und Abschlussquote nebeneinander — dazu ein Frage-und-Antwort-Bereich.",
+    "s3t": "Angebote vergleichen",
+    "s4b": "Wählen Sie das passende Angebot, klären Sie die Details und lassen Sie es machen. Ihre Adresse wird erst nach Ihrer Wahl geteilt.",
+    "s4t": "Wählen und buchen",
+    "title": "Von einem Satz zum richtigen Profi."
+  },
+  "launch": {
+    "eyebrow": "Startplan",
+    "lede": "Wir öffnen Land für Land. Tragen Sie sich von überall ein — wir schreiben Ihnen, sobald Loqelo Ihre Region erreicht.",
+    "more": "+ Ihr Land als Nächstes",
+    "rmtitle": "Was bis dahin passiert",
+    "title": "Im Februar 2027 geht es los."
+  },
+  "meta": {
+    "desc": "Loqelo verbindet Sie mit vertrauenswürdigen lokalen Dienstleistern für Haus, Garten und Büro. Beschreiben Sie Ihren Bedarf in einem Satz und erhalten Sie Angebote von geprüften Profis. Jetzt auf die Warteliste — Start im Februar 2027.",
+    "title": "Loqelo — Alles, was Ihr Zuhause braucht. Start im Februar 2027"
+  },
+  "nav": {
+    "cta": "Zur Warteliste",
+    "faq": "FAQ",
+    "film": "Der Film",
+    "how": "So funktioniert es",
+    "launch": "Start",
+    "platform": "Plattform"
+  },
+  "ok": {
+    "again": "Weitere Adresse hinzufügen",
+    "againPro": "Weitere Adresse hinzufügen",
+    "body": "Danke — wir schreiben Ihnen, sobald Loqelo in Ihrem Land öffnet. Sie müssen nichts weiter tun.",
+    "bodyPro": "Danke für Ihren Beitritt. Wir melden uns vor dem Start mit den Verifizierungsschritten und allem, was Sie zum Kalkulieren brauchen.",
+    "title": "Sie stehen auf der Liste.",
+    "titlePro": "Willkommen an Bord."
+  },
+  "privacy": {
+    "lede": "Was wir erfassen, wenn Sie sich in die Loqelo-Warteliste eintragen, warum wir das tun und was Sie dagegen tun können.",
+    "title": "Datenschutz & Cookies"
+  },
+  "rm": {
+    "live": {
+      "b": "Die Plattform geht live und die ersten Aufträge kommen rein.",
+      "t": "Loqelo geht live",
+      "when": "Februar 2027"
+    },
+    "next": {
+      "b": "Die Verifizierung startet für Handwerks- und Dienstleistungsbetriebe in den ersten Märkten.",
+      "t": "Anbieter-Onboarding",
+      "when": "Herbst 2026"
+    },
+    "now": {
+      "b": "Kunden und Anbieter können sich eintragen. Nichts zu zahlen, nichts zu installieren.",
+      "t": "Warteliste offen",
+      "when": "Jetzt"
+    },
+    "open": {
+      "b": "Einladungen gehen vor dem öffentlichen Start an die Warteliste.",
+      "t": "Früher Zugang",
+      "when": "Winter 2026/27"
+    }
+  },
+  "screens": {
+    "cta": "Frühen Zugang zu allem sichern",
+    "eyebrow": "Plattform-Vorschau",
+    "lede": "Die Loqelo-Oberfläche ist gestaltet und getestet. Genau das sehen Kunden und Anbieter, wenn es losgeht.",
+    "note": "Screens aus dem Loqelo-UI-Kit. Details können leicht abweichen.",
+    "title": "Das Produkt ist bereits gebaut."
+  },
+  "tab": {
+    "bid": "Angebot",
+    "client": "Kundenbereich",
+    "post": "Auftrag einstellen",
+    "pro": "Anbieter-Dashboard",
+    "quotes": "Angebote"
+  },
+  "wl": {
+    "cust": {
+      "intro": "Sagen Sie uns, wo wir Sie erreichen, wenn Loqelo in Ihrer Region startet."
+    },
+    "eyebrow": "Warteliste",
+    "lede": "Wählen Sie Ihre Seite, lassen Sie E-Mail und Land da — den Rest übernehmen wir. Zwei Felder, eine Minute.",
+    "p1b": "Wer auf der Warteliste steht, kommt vor dem öffentlichen Start rein.",
+    "p1t": "Früher Zugang",
+    "p2b": "Nur Start-News und Meilensteine. Keine Newsletter, die Sie nicht wollten.",
+    "p2t": "Kurze, gelegentliche Updates",
+    "p3b": "Nie verkauft, nie an Werbetreibende weitergegeben, auf Wunsch jederzeit gelöscht.",
+    "p3t": "Ihre Daten bleiben Ihre",
+    "p4b": "Melden Sie sich von überall an — wir sagen Ihnen, wann wir Sie erreichen.",
+    "p4t": "Jedes Land, jede Sprache",
+    "pro": {
+      "intro": "Erhalten Sie passende Aufträge, sobald wir in Ihrer Region starten."
+    },
+    "tab": {
+      "cust": "Ich suche Services",
+      "pro": "Ich biete Services"
+    },
+    "title": "Seien Sie zuerst da, wenn Ihre Stadt öffnet."
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "a11y": {
+    "skip": "Skip to content"
+  },
+  "aud": {
+    "cust": {
+      "body": "For homeowners, tenants, landlords and offices. One request, several offers, no obligation to accept any of them.",
+      "cta": "Join as a customer",
+      "l1": "Free to post, and free to say no",
+      "l2": "Verified providers with public ratings",
+      "l3": "Your exact address stays private until you choose",
+      "tag": "For customers",
+      "title": "Need a hand? Describe it once."
+    },
+    "eyebrow": "Two sides, one platform",
+    "pro": {
+      "body": "For sole traders, small teams and companies. Set your services and radius once, then quote only the jobs that fit.",
+      "cta": "Join as a provider",
+      "l1": "Jobs matched to your trade and area",
+      "l2": "No lead fees for jobs you don't win",
+      "l3": "Your rating and completion rate do the selling",
+      "tag": "For service providers",
+      "title": "Need more jobs? They come to you."
+    },
+    "title": "Built for people who need help — and people who give it."
+  },
+  "cap": {
+    "bid": {
+      "b": "Price, timing and a written proposal — with the job location kept separate from the files.",
+      "t": "A bid that wins work"
+    },
+    "client": {
+      "b": "Track offers, questions and the provider you picked — without chasing emails.",
+      "t": "Every job in one list"
+    },
+    "post": {
+      "b": "Three optional steps add detail so providers quote accurately the first time.",
+      "t": "Photos, place, date"
+    },
+    "pro": {
+      "b": "Jobs matched to your services and radius, plus the earning potential behind them.",
+      "t": "Jobs that come to you"
+    },
+    "quotes": {
+      "b": "Offers sorted by price, rating or speed, with a price-range chart and a Q&A thread.",
+      "t": "Compare, then choose"
+    }
+  },
+  "cat": {
+    "construction": "Construction",
+    "energy": "Energy",
+    "garden": "Garden",
+    "handyman": "Handyman",
+    "home": "Home",
+    "installations": "Installations",
+    "landscaping": "Landscaping",
+    "moving": "Moving",
+    "personal": "Personal care",
+    "pets": "Pets",
+    "repairs": "Repairs",
+    "vehicles": "Vehicles"
+  },
+  "cd": {
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds"
+  },
+  "ck": {
+    "accept": "Accept",
+    "reject": "Decline",
+    "text": "We use privacy-friendly analytics to see how the site is doing. Nothing loads until you say yes, and we never send your email or form content to analytics. <a href=\"privacy.html#cookies\">Details</a>."
+  },
+  "cta": {
+    "body": "Join the waiting list today and be there on day one â as a customer, as a provider, or both.",
+    "btn": "Join the waiting list",
+    "btn2": "Read the FAQ",
+    "title": "Your place has a list of things to do. Let's shorten it."
+  },
+  "f": {
+    "business": "Business",
+    "consent": "I agree to receive occasional emails about the Loqelo launch and updates. I can unsubscribe at any time — see the <a href=\"privacy.html\">Privacy Policy</a>.",
+    "consentErr": "Please confirm you'd like to hear from us.",
+    "consentPro": "I agree to receive occasional emails about the Loqelo launch, onboarding and updates. I can unsubscribe at any time — see the <a href=\"privacy.html\">Privacy Policy</a>.",
+    "country": "Country of residence",
+    "countryErr": "Please choose a country.",
+    "countryPro": "Country where you work",
+    "countrySelect": "Select your country",
+    "email": "Email address",
+    "emailErr": "Please enter a valid email address.",
+    "emailPh": "you@example.com",
+    "individual": "Individual",
+    "note": "No payment details, no obligation. We only email launch news, and you can leave the list in one click.",
+    "notePro": "Free to join. We'll contact you before launch with verification steps and pricing.",
+    "optional": "optional",
+    "submitCust": "Join the waiting list",
+    "submitPro": "Join as a provider",
+    "type": "I am a",
+    "typePro": "I work as"
+  },
+  "faq": {
+    "a1": "February 2027. People on the waiting list are first in line, and we email you as soon as your country opens â before anything is announced publicly.",
+    "a2": "We're opening country by country across Europe, starting with the Netherlands, Poland and Germany. You can join the list from anywhere â we'll tell you when Loqelo reaches your area.",
+    "a3": "Yes. Posting a job and receiving offers is free, and you're never obliged to accept one. You only pay the provider you choose, at the price you agreed.",
+    "a4": "Creating a profile and seeing matched jobs will be free. Pricing for the extra tools will be published well before launch, and waiting list members hear about it first.",
+    "a5": "Every provider completes identity and business verification before they can send an offer. Ratings, reviews and completion rates are public on each profile, so you always know who you're dealing with.",
+    "a6": "We keep it to send launch news and updates only. It is never sold, never shown to other users and never sent to analytics tools. Every email has a one-click unsubscribe, and you can ask us to delete your data at any time â details in the <a href=\"privacy.html\">Privacy Policy</a>.",
+    "cardB": "hello@loqelo.com  we reply within two working days.",
+    "cardT": "Still have a question?",
+    "eyebrow": "Questions",
+    "lede": "Something missing? Write to <a href=\"mailto:hello@loqelo.com\">hello@loqelo.com</a> and a human will answer.",
+    "q1": "When does Loqelo launch?",
+    "q2": "Which countries will be available?",
+    "q3": "Is it free for customers?",
+    "q4": "What does it cost service providers?",
+    "q5": "How are providers verified?",
+    "q6": "What happens to my email address?",
+    "title": "The things people ask us first."
+  },
+  "film": {
+    "eyebrow": "The Loqelo film",
+    "f1": "<b>Any trade, one place</b> — from window cleaning to a full renovation.",
+    "f2": "<b>Local pros, real ratings</b> — verified providers within your reach.",
+    "f3": "<b>One sentence to start</b> — no forms to fill, no calls to make.",
+    "lede": "Finding someone good to fix, clean or improve your place shouldn't feel like a gamble. So we built the shortest possible path from “I need this done” to “this is the person”.",
+    "len": "1 min 22 s",
+    "tag": "Promo film",
+    "title": "Eighty-two seconds. One idea."
+  },
+  "foot": {
+    "blurb": "Loqelo connects customers with trusted service providers for the home, garden and office. Launching February 2027.",
+    "company": "Company",
+    "contact": "Contact",
+    "cookies": "Cookie settings",
+    "imprint": "Imprint",
+    "join": "Waiting list",
+    "legal": "Legal",
+    "made": "Launching February 2027",
+    "platform": "Platform",
+    "privacy": "Privacy & cookies",
+    "rights": "All rights reserved.",
+    "top": "Back to top"
+  },
+  "hero": {
+    "badge": "Launching Feb 2027",
+    "badge2": "Waiting list open",
+    "cta": "Join the waitlist",
+    "cta2": "See how it works",
+    "f1": "3 services found",
+    "f1b": "matched from one sentence",
+    "f2": "4.9 average rating",
+    "f2b": "verified local pros",
+    "sub": "One sentence is all it takes. Describe the job — cleaning, repairs, gardening, moving — and Loqelo brings you offers from verified local pros.",
+    "t1": "Verified providers",
+    "t2": "Free to post, no obligation",
+    "t3": "No spam, launch news only",
+    "title": "Everything <span class=\"hl\">your place</span> needs."
+  },
+  "how": {
+    "cta": "Try it at launch",
+    "eyebrow": "How Loqelo works",
+    "lede": "No endless searching. No five phone calls for a quote. Four steps, in one place, at your pace.",
+    "quote": "“I need the gutters cleared and a new fence panel before winter.” <em>That's the whole job post.</em>",
+    "s1b": "Write it the way you'd say it: “my hedge is overgrown and the windows need doing”. Add photos if it helps.",
+    "s1t": "Describe your need",
+    "s2b": "Loqelo works out which services you need and puts the job in front of verified providers nearby.",
+    "s2t": "We find the pros",
+    "s3b": "Price, timing, ratings and completion rates side by side — plus a Q&A thread for the details.",
+    "s3t": "Compare the offers",
+    "s4b": "Pick the offer that fits, agree the details and get it done. Your address is only shared after you choose.",
+    "s4t": "Choose and book",
+    "title": "From one sentence to the right pro."
+  },
+  "launch": {
+    "eyebrow": "Launch timeline",
+    "lede": "We're opening country by country. Join the waiting list from anywhere — we'll write to you the moment Loqelo reaches your area.",
+    "more": "+ your country next",
+    "rmtitle": "What happens between now and then",
+    "title": "Doors open in February 2027."
+  },
+  "meta": {
+    "desc": "Loqelo connects you with trusted local service providers for your home, garden and office. Describe what you need in one sentence and get offers from verified pros. Join the waiting list — launching February 2027.",
+    "title": "Loqelo — Everything your place needs. Launching February 2027"
+  },
+  "nav": {
+    "cta": "Join the waitlist",
+    "faq": "FAQ",
+    "film": "The film",
+    "how": "How it works",
+    "launch": "Launch",
+    "platform": "Platform"
+  },
+  "ok": {
+    "again": "Add another address",
+    "againPro": "Add another address",
+    "body": "Thank you — we'll email you as soon as Loqelo opens in your country. No action needed from your side.",
+    "bodyPro": "Thanks for joining. We'll email you before launch with verification steps and everything you need to start quoting.",
+    "title": "You're on the list.",
+    "titlePro": "Welcome aboard."
+  },
+  "privacy": {
+    "lede": "What we collect when you join the Loqelo waiting list, why we collect it, and the control you have over it.",
+    "title": "Privacy & cookies"
+  },
+  "rm": {
+    "live": {
+      "b": "The platform opens and the first jobs are posted.",
+      "t": "Loqelo goes live",
+      "when": "February 2027"
+    },
+    "next": {
+      "b": "Verification opens for trades and service businesses in the first markets.",
+      "t": "Provider onboarding",
+      "when": "Autumn 2026"
+    },
+    "now": {
+      "b": "Customers and providers can sign up. Nothing to pay, nothing to install.",
+      "t": "Waiting list open",
+      "when": "Now"
+    },
+    "open": {
+      "b": "Invitations go out to the waiting list before the public launch.",
+      "t": "Early access",
+      "when": "Winter 2026/27"
+    }
+  },
+  "screens": {
+    "cta": "Get early access to all of it",
+    "eyebrow": "Platform preview",
+    "lede": "Loqelo's interface is designed and tested. Here is exactly what customers and providers will see when the doors open.",
+    "note": "Screens from the Loqelo UI kit. Final details may differ slightly.",
+    "title": "The product is already built."
+  },
+  "tab": {
+    "bid": "Bid",
+    "client": "Client panel",
+    "post": "Post a job",
+    "pro": "Pro dashboard",
+    "quotes": "Quotes"
+  },
+  "wl": {
+    "cust": {
+      "intro": "Tell us where to reach you when Loqelo opens in your area."
+    },
+    "eyebrow": "Waiting list",
+    "lede": "Pick the side you're on, leave your email and country, and we'll take it from there. Two fields, one minute.",
+    "p1b": "Waiting list members get in before the public launch.",
+    "p1t": "Early access",
+    "p2b": "Launch news and milestones only. No newsletters you didn't ask for.",
+    "p2t": "Short, occasional updates",
+    "p3b": "Never sold, never shared with advertisers, deleted whenever you ask.",
+    "p3t": "Your data stays yours",
+    "p4b": "Sign up from anywhere — we'll tell you when we reach you.",
+    "p4t": "Any country, any language",
+    "pro": {
+      "intro": "Get matched jobs the moment we launch where you work."
+    },
+    "tab": {
+      "cust": "I need services",
+      "pro": "I provide services"
+    },
+    "title": "Be first when your city opens."
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "a11y": {
+    "skip": "Przejdź do treści"
+  },
+  "aud": {
+    "cust": {
+      "body": "Dla właścicieli domów i mieszkań, najemców, wynajmujących i biur. Jedno zlecenie, kilka ofert, zero obowiązku wyboru.",
+      "cta": "Dołącz jako klient",
+      "l1": "Publikacja bezpłatna, odmowa też",
+      "l2": "Sprawdzeni wykonawcy z publicznymi ocenami",
+      "l3": "Dokładny adres pozostaje prywatny do chwili wyboru",
+      "tag": "Dla klientów",
+      "title": "Potrzebujesz pomocy? Opisz ją raz."
+    },
+    "eyebrow": "Dwie strony, jedna platforma",
+    "pro": {
+      "body": "Dla jednoosobowych firm, małych zespołów i przedsiębiorstw. Ustaw usługi i promień działania raz, a potem wyceniaj tylko pasujące zlecenia.",
+      "cta": "Dołącz jako wykonawca",
+      "l1": "Zlecenia dopasowane do Twojej branży i okolicy",
+      "l2": "Bez opłat za kontakty, które nie staną się zleceniem",
+      "l3": "Twoja ocena i skuteczność sprzedają za Ciebie",
+      "tag": "Dla wykonawców",
+      "title": "Za mało zleceń? Same do Ciebie przyjdą."
+    },
+    "title": "Dla tych, którzy potrzebują pomocy — i tych, którzy jej udzielają."
+  },
+  "cap": {
+    "bid": {
+      "b": "Cena, termin i pisemna oferta — z lokalizacją zlecenia oddzieloną od plików.",
+      "t": "Oferta, która wygrywa"
+    },
+    "client": {
+      "b": "Śledź oferty, pytania i wybranego wykonawcę — bez przekopywania maili.",
+      "t": "Wszystkie zlecenia w jednym miejscu"
+    },
+    "post": {
+      "b": "Trzy opcjonalne kroki dodają szczegóły, dzięki czemu wykonawcy wyceniają trafnie za pierwszym razem.",
+      "t": "Zdjęcia, miejsce, termin"
+    },
+    "pro": {
+      "b": "Zlecenia dopasowane do Twoich usług i promienia, plus potencjał zarobkowy.",
+      "t": "Zlecenia, które przychodzą do Ciebie"
+    },
+    "quotes": {
+      "b": "Oferty sortowane po cenie, ocenie lub szybkości, z wykresem widełek cenowych i wątkiem pytań.",
+      "t": "Porównaj i wybierz"
+    }
+  },
+  "cat": {
+    "construction": "Budowa",
+    "energy": "Energia",
+    "garden": "Ogród",
+    "handyman": "Złota rączka",
+    "home": "Dom",
+    "installations": "Instalacje",
+    "landscaping": "Zieleń",
+    "moving": "Przeprowadzki",
+    "personal": "Opieka",
+    "pets": "Zwierzęta",
+    "repairs": "Naprawy",
+    "vehicles": "Pojazdy"
+  },
+  "cd": {
+    "days": "Dni",
+    "hours": "Godziny",
+    "minutes": "Minuty",
+    "seconds": "Sekundy"
+  },
+  "ck": {
+    "accept": "Akceptuję",
+    "reject": "Odrzucam",
+    "text": "Używamy przyjaznej prywatności analityki, żeby wiedzieć, jak radzi sobie strona. Nic się nie uruchamia bez Twojej zgody, a Twojego adresu e-mail ani treści formularza nigdy nie wysyłamy do narzędzi analitycznych. <a href=\"privacy.html#cookies\">Szczegóły</a>."
+  },
+  "cta": {
+    "body": "Zapisz się na listę oczekujących już dziś i bądź na miejscu w dniu startu — jako klient, jako wykonawca, albo jedno i drugie.",
+    "btn": "Dołącz do listy oczekujących",
+    "btn2": "Przeczytaj FAQ",
+    "title": "Twoje miejsce ma listę rzeczy do zrobienia. Skróćmy ją."
+  },
+  "f": {
+    "business": "Firma",
+    "consent": "Zgadzam się na otrzymywanie okazjonalnych wiadomości o starcie Loqelo i aktualności. Mogę zrezygnować w każdej chwili — zobacz <a href=\"privacy.html\">Politykę prywatności</a>.",
+    "consentErr": "Potwierdź, że chcesz od nas wiadomości.",
+    "consentPro": "Zgadzam się na otrzymywanie okazjonalnych wiadomości o starcie Loqelo, dołączaniu wykonawców i aktualności. Mogę zrezygnować w każdej chwili — zobacz <a href=\"privacy.html\">Politykę prywatności</a>.",
+    "country": "Kraj zamieszkania",
+    "countryErr": "Wybierz kraj.",
+    "countryPro": "Kraj, w którym pracujesz",
+    "countrySelect": "Wybierz swój kraj",
+    "email": "Adres e-mail",
+    "emailErr": "Podaj poprawny adres e-mail.",
+    "emailPh": "ty@example.com",
+    "individual": "Osoba prywatna",
+    "note": "Bez danych płatniczych i bez zobowiązań. Piszemy tylko o starcie, a z listy możesz wypisać się jednym kliknięciem.",
+    "notePro": "Dołączenie jest bezpłatne. Odezwiemy się przed startem z krokami weryfikacji i cennikiem.",
+    "optional": "opcjonalne",
+    "submitCust": "Dołącz do listy oczekujących",
+    "submitPro": "Dołącz jako wykonawca",
+    "type": "Jestem",
+    "typePro": "Pracuję jako"
+  },
+  "faq": {
+    "a1": "Luty 2027. Osoby z listy oczekujących są pierwsze w kolejce — piszemy, gdy tylko otworzy się Twój kraj, zanim cokolwiek ogłosimy publicznie.",
+    "a2": "Otwieramy się kraj po kraju w Europie, zaczynając od Holandii, Polski i Niemiec. Zapisać można się z dowolnego miejsca — damy znać, gdy Loqelo dotrze do Twojej okolicy.",
+    "a3": "Tak. Dodanie zlecenia i otrzymywanie ofert jest bezpłatne i nigdy nie musisz żadnej przyjmować. Płacisz tylko wybranemu wykonawcy, w ustalonej cenie.",
+    "a4": "Utworzenie profilu i przeglądanie dopasowanych zleceń będzie bezpłatne. Cennik dodatkowych narzędzi opublikujemy długo przed startem, a lista oczekujących dowie się pierwsza.",
+    "a5": "Każdy wykonawca przechodzi weryfikację tożsamości i działalności, zanim wyśle ofertę. Oceny, opinie i skuteczność są publiczne na profilu, więc zawsze wiesz, z kim rozmawiasz.",
+    "a6": "Trzymamy go wyłącznie po to, by wysyłać wieści o starcie i aktualności. Nigdy nie jest sprzedawany, pokazywany innym użytkownikom ani wysyłany do narzędzi analitycznych. Każda wiadomość ma link do wypisania jednym kliknięciem, a w każdej chwili możesz poprosić o usunięcie danych — szczegóły w <a href=\"privacy.html\">Polityce prywatności</a>.",
+    "cardB": "hello@loqelo.com — odpowiadamy w ciągu dwóch dni roboczych.",
+    "cardT": "Masz jeszcze pytanie?",
+    "eyebrow": "Pytania",
+    "lede": "Czegoś brakuje? Napisz na <a href=\"mailto:hello@loqelo.com\">hello@loqelo.com</a> — odpowie człowiek.",
+    "q1": "Kiedy startuje Loqelo?",
+    "q2": "W jakich krajach będzie dostępne?",
+    "q3": "Czy dla klientów jest bezpłatnie?",
+    "q4": "Ile płacą wykonawcy?",
+    "q5": "Jak weryfikujecie wykonawców?",
+    "q6": "Co dzieje się z moim adresem e-mail?",
+    "title": "To, o co pytacie nas najczęściej."
+  },
+  "film": {
+    "eyebrow": "Film Loqelo",
+    "f1": "<b>Każda usługa, jedno miejsce</b> — od mycia okien po generalny remont.",
+    "f2": "<b>Lokalni fachowcy, prawdziwe oceny</b> — sprawdzeni wykonawcy w Twojej okolicy.",
+    "f3": "<b>Jedno zdanie na start</b> — żadnych formularzy, żadnych telefonów.",
+    "lede": "Znalezienie kogoś dobrego do naprawy, sprzątania czy poprawy mieszkania nie powinno być loterią. Dlatego zbudowaliśmy najkrótszą możliwą drogę od „muszę to zrobić” do „to jest odpowiednia osoba”.",
+    "len": "1 min 22 s",
+    "tag": "Film promocyjny",
+    "title": "Osiemdziesiąt dwie sekundy. Jeden pomysł."
+  },
+  "foot": {
+    "blurb": "Loqelo łączy klientów ze sprawdzonymi wykonawcami dla domu, ogrodu i biura. Start w lutym 2027.",
+    "company": "Firma",
+    "contact": "Kontakt",
+    "cookies": "Ustawienia cookies",
+    "imprint": "Nota prawna",
+    "join": "Lista oczekujących",
+    "legal": "Dokumenty",
+    "made": "Start w lutym 2027",
+    "platform": "Platforma",
+    "privacy": "Prywatność i cookies",
+    "rights": "Wszelkie prawa zastrzeżone.",
+    "top": "Do góry"
+  },
+  "hero": {
+    "badge": "Start luty 2027",
+    "badge2": "Lista oczekujących otwarta",
+    "cta": "Dołącz do listy",
+    "cta2": "Zobacz, jak to działa",
+    "f1": "3 znalezione usługi",
+    "f1b": "z jednego zdania",
+    "f2": "Średnia ocena 4,9",
+    "f2b": "sprawdzeni lokalni fachowcy",
+    "sub": "Wystarczy jedno zdanie. Opisz robotę — sprzątanie, naprawy, ogród, przeprowadzkę — a Loqelo przyniesie Ci oferty od sprawdzonych fachowców.",
+    "t1": "Sprawdzeni wykonawcy",
+    "t2": "Bezpłatna publikacja, bez zobowiązań",
+    "t3": "Bez spamu, tylko wieści o starcie",
+    "title": "Wszystko, czego potrzebuje <span class=\"hl\">Twoje miejsce</span>."
+  },
+  "how": {
+    "cta": "Wypróbuj przy starcie",
+    "eyebrow": "Jak działa Loqelo",
+    "lede": "Koniec z przekopywaniem ogłoszeń. Koniec z pięcioma telefonami po jedną wycenę. Cztery kroki, jedno miejsce, Twoje tempo.",
+    "quote": "„Trzeba oczyścić rynny i wstawić nowy panel ogrodzenia przed zimą.” <em>To całe zlecenie.</em>",
+    "s1b": "Napisz to tak, jakbyś powiedział: „żywopłot mi zarósł, a okna wymagają mycia”. Możesz dodać zdjęcia.",
+    "s1t": "Opisz potrzebę",
+    "s2b": "Loqelo ustala, jakich usług potrzebujesz, i pokazuje zlecenie sprawdzonym wykonawcom w okolicy.",
+    "s2t": "Znajdujemy fachowców",
+    "s3b": "Cena, termin, oceny i skuteczność obok siebie — plus wątek pytań i odpowiedzi.",
+    "s3t": "Porównaj oferty",
+    "s4b": "Wybierz pasującą ofertę, ustal szczegóły i załatw sprawę. Adres udostępniamy dopiero po Twoim wyborze.",
+    "s4t": "Wybierz i zamów",
+    "title": "Od jednego zdania do właściwej osoby."
+  },
+  "launch": {
+    "eyebrow": "Harmonogram startu",
+    "lede": "Otwieramy się kraj po kraju. Zapisz się z dowolnego miejsca — napiszemy, gdy Loqelo dotrze do Twojej okolicy.",
+    "more": "+ Twój kraj następny",
+    "rmtitle": "Co będzie się działo do startu",
+    "title": "Otwieramy drzwi w lutym 2027."
+  },
+  "meta": {
+    "desc": "Loqelo łączy Cię ze sprawdzonymi lokalnymi wykonawcami dla domu, ogrodu i biura. Opisz potrzebę jednym zdaniem i otrzymaj oferty od fachowców. Dołącz do listy oczekujących — start w lutym 2027.",
+    "title": "Loqelo — Wszystko, czego potrzebuje Twoje miejsce. Start w lutym 2027"
+  },
+  "nav": {
+    "cta": "Dołącz do listy",
+    "faq": "FAQ",
+    "film": "Film",
+    "how": "Jak to działa",
+    "launch": "Start",
+    "platform": "Platforma"
+  },
+  "ok": {
+    "again": "Dodaj kolejny adres",
+    "againPro": "Dodaj kolejny adres",
+    "body": "Dziękujemy — napiszemy, gdy tylko Loqelo ruszy w Twoim kraju. Nic więcej nie musisz robić.",
+    "bodyPro": "Dziękujemy za dołączenie. Przed startem napiszemy z krokami weryfikacji i wszystkim, co potrzebne, żeby zacząć wyceniać.",
+    "title": "Jesteś na liście.",
+    "titlePro": "Witamy na pokładzie."
+  },
+  "privacy": {
+    "lede": "Co zbieramy, gdy zapisujesz się na listę oczekujących Loqelo, dlaczego i jaki masz na to wpływ.",
+    "title": "Prywatność i cookies"
+  },
+  "rm": {
+    "live": {
+      "b": "Platforma startuje i pojawiają się pierwsze zlecenia.",
+      "t": "Loqelo startuje",
+      "when": "Luty 2027"
+    },
+    "next": {
+      "b": "Weryfikacja rusza dla fachowców i firm usługowych na pierwszych rynkach.",
+      "t": "Dołączanie wykonawców",
+      "when": "Jesień 2026"
+    },
+    "now": {
+      "b": "Klienci i wykonawcy mogą się zapisywać. Nic nie kosztuje, nic nie trzeba instalować.",
+      "t": "Lista oczekujących otwarta",
+      "when": "Teraz"
+    },
+    "open": {
+      "b": "Zaproszenia trafiają do listy oczekujących przed publicznym startem.",
+      "t": "Wczesny dostęp",
+      "when": "Zima 2026/27"
+    }
+  },
+  "screens": {
+    "cta": "Zyskaj wczesny dostęp do całości",
+    "eyebrow": "Podgląd platformy",
+    "lede": "Interfejs Loqelo jest zaprojektowany i przetestowany. Tak dokładnie wygląda to dla klientów i wykonawców, gdy otworzymy drzwi.",
+    "note": "Zrzuty z UI kitu Loqelo. Szczegóły mogą się nieznacznie różnić.",
+    "title": "Produkt jest już gotowy."
+  },
+  "tab": {
+    "bid": "Oferta",
+    "client": "Panel klienta",
+    "post": "Dodaj zlecenie",
+    "pro": "Panel wykonawcy",
+    "quotes": "Oferty"
+  },
+  "wl": {
+    "cust": {
+      "intro": "Powiedz, gdzie się odezwać, gdy Loqelo ruszy w Twojej okolicy."
+    },
+    "eyebrow": "Lista oczekujących",
+    "lede": "Wybierz stronę, podaj e-mail i kraj — resztą zajmiemy się my. Dwa pola, jedna minuta.",
+    "p1b": "Osoby z listy wchodzą przed publicznym startem.",
+    "p1t": "Wczesny dostęp",
+    "p2b": "Tylko wieści o starcie i kamienie milowe. Żadnych newsletterów, o które nie prosiłeś.",
+    "p2t": "Krótkie, okazjonalne wieści",
+    "p3b": "Nigdy nie sprzedawane, nie udostępniane reklamodawcom, usuwane na Twoje życzenie.",
+    "p3t": "Twoje dane zostają Twoje",
+    "p4b": "Zapisz się z dowolnego kraju — damy znać, gdy do Ciebie dotrzemy.",
+    "p4t": "Każdy kraj, każdy język",
+    "pro": {
+      "intro": "Otrzymuj dopasowane zlecenia od razu, gdy ruszymy w Twoim regionie."
+    },
+    "tab": {
+      "cust": "Szukam usług",
+      "pro": "Świadczę usługi"
+    },
+    "title": "Bądź pierwszy, gdy otworzy się Twoje miasto."
+  }
+}
